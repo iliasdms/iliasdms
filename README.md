@@ -2,7 +2,7 @@
 
 **Étudiant en Master Ingénierie des Systèmes et Logiciels | Master 1 Data Science & Analyse | Développeur Web & IA**
 
-> 🎯 **Actuellement à la recherche d'une alternance en développement web (frontend ou full-stack) dès janvier 2025.**
+> 🎯 **Actuellement à la recherche d'une alternance Ingénierie des Systèmes et Logiciels (frontend ou full-stack) dès janvier 2025.**
 
 Bienvenue sur mon GitHub ! Passionné par le développement web, l’intelligence artificielle et la data, j’aime créer des solutions innovantes et performantes.
 
